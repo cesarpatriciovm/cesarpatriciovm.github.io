@@ -1,0 +1,46 @@
+body {
+    background-color: #212529;
+    color: #ffffff !important;
+    width: 80%;
+    margin: auto;
+}
+
+.navbar {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.content {
+    align-items: center;
+}
+
+.img-perfil {
+    align-items: center;
+}
+
+.text-presentacion {
+    text-align: center;
+}
+
+.titulo-proyectos {
+    text-align: center;    
+}
+
+.card {
+    margin: 0 auto;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.link-icono {
+    text-align: center;
+}
+
+
+
